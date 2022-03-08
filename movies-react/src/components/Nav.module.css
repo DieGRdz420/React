@@ -1,0 +1,19 @@
+.navContainer {
+    display: flex;
+    justify-content: space-around;
+
+    height: 60px;
+
+    background-image: url('https://png.pngtree.com/background/20210711/original/pngtree-colorful-neon-lines-background-picture-image_1152268.jpg');
+    border: 1px solid #950101;
+    color: #ff0000;
+    border-radius: 15px;
+
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.title {
+    position: relative;
+    top: -9px;
+}

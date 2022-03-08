@@ -1,0 +1,35 @@
+.detailsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    background-image: url('https://media.istockphoto.com/vectors/cinema-seamless-background-with-modern-linear-elements-vector-id1125541022?b=1&k=20&m=1125541022&s=170667a&w=0&h=iJ8WmrMUTzGB2Dhf-MnWq1FYAHUVvNV4Tte0aXwSWJA=');
+}
+
+.col {
+    max-width: 400px;
+    margin: 15px;
+    height: auto;
+    height: 80%;
+}
+
+.movieImage {
+    border-radius: 15px;
+}
+
+.movieDetails {
+    position: relative;
+    top: 100px;
+
+    font-size: 1.5rem;
+
+    background-color: #ffffff10;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px );
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.firstItem {
+    margin-top: 0;
+}
